@@ -1,0 +1,2905 @@
+fileFormatVersion: 2
+guid: 02bf9bb03e197e0428bf20592cb5b4b6
+timeCreated: 1468047574
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: INGAME_PARTICLES_1_0
+    21300002: INGAME_PARTICLES_1_1
+    21300004: 3
+    21300006: INGAME_PARTICLES_1_3
+    21300008: INGAME_PARTICLES_1_4
+    21300010: 2
+    21300012: INGAME_PARTICLES_1_6
+    21300014: INGAME_PARTICLES_1_7
+    21300016: INGAME_PARTICLES_1_8
+    21300018: INGAME_PARTICLES_1_9
+    21300020: INGAME_PARTICLES_1_10
+    21300022: INGAME_PARTICLES_1_11
+    21300024: INGAME_PARTICLES_1_12
+    21300026: INGAME_PARTICLES_1_13
+    21300028: INGAME_PARTICLES_1_14
+    21300030: INGAME_PARTICLES_1_15
+    21300032: INGAME_PARTICLES_1_16
+    21300034: INGAME_PARTICLES_1_17
+    21300036: INGAME_PARTICLES_1_18
+    21300038: INGAME_PARTICLES_1_19
+    21300040: INGAME_PARTICLES_1_20
+    21300042: INGAME_PARTICLES_1_21
+    21300044: INGAME_PARTICLES_1_22
+    21300046: INGAME_PARTICLES_1_23
+    21300048: INGAME_PARTICLES_1_24
+    21300050: INGAME_PARTICLES_1_25
+    21300052: 1
+    21300054: INGAME_PARTICLES_1_27
+    21300056: INGAME_PARTICLES_1_28
+    21300058: INGAME_PARTICLES_1_29
+    21300060: INGAME_PARTICLES_1_30
+    21300062: INGAME_PARTICLES_1_31
+    21300064: INGAME_PARTICLES_1_32
+    21300066: INGAME_PARTICLES_1_33
+    21300068: INGAME_PARTICLES_1_34
+    21300070: INGAME_PARTICLES_1_35
+    21300072: INGAME_PARTICLES_1_36
+    21300074: INGAME_PARTICLES_1_37
+    21300076: INGAME_PARTICLES_1_38
+    21300078: INGAME_PARTICLES_1_39
+    21300080: INGAME_PARTICLES_1_40
+    21300082: INGAME_PARTICLES_1_41
+    21300084: INGAME_PARTICLES_1_42
+    21300086: INGAME_PARTICLES_1_43
+    21300088: INGAME_PARTICLES_1_44
+    21300090: INGAME_PARTICLES_1_45
+    21300092: INGAME_PARTICLES_1_46
+    21300094: INGAME_PARTICLES_1_47
+    21300096: INGAME_PARTICLES_1_48
+    21300098: INGAME_PARTICLES_1_49
+    21300100: INGAME_PARTICLES_1_50
+    21300102: INGAME_PARTICLES_1_52
+    21300104: INGAME_PARTICLES_1_53
+    21300106: INGAME_PARTICLES_1_54
+    21300108: INGAME_PARTICLES_1_55
+    21300110: INGAME_PARTICLES_1_58
+    21300112: INGAME_PARTICLES_1_59
+    21300114: INGAME_PARTICLES_1_60
+    21300116: INGAME_PARTICLES_1_61
+    21300118: INGAME_PARTICLES_1_62
+    21300120: INGAME_PARTICLES_1_63
+    21300122: INGAME_PARTICLES_1_64
+    21300124: INGAME_PARTICLES_1_65
+    21300126: INGAME_PARTICLES_1_66
+    21300128: INGAME_PARTICLES_1_67
+    21300130: INGAME_PARTICLES_1_69
+    21300132: INGAME_PARTICLES_1_70
+    21300134: INGAME_PARTICLES_1_71
+    21300136: INGAME_PARTICLES_1_72
+    21300138: INGAME_PARTICLES_1_73
+    21300140: INGAME_PARTICLES_1_74
+    21300142: INGAME_PARTICLES_1_75
+    21300144: INGAME_PARTICLES_1_76
+    21300146: INGAME_PARTICLES_1_77
+    21300148: INGAME_PARTICLES_1_78
+    21300150: INGAME_PARTICLES_1_79
+    21300152: INGAME_PARTICLES_1_80
+    21300154: INGAME_PARTICLES_1_81
+    21300156: INGAME_PARTICLES_1_82
+    21300158: INGAME_PARTICLES_1_83
+    21300160: INGAME_PARTICLES_1_84
+    21300162: INGAME_PARTICLES_1_87
+    21300164: INGAME_PARTICLES_1_88
+    21300166: INGAME_PARTICLES_1_89
+    21300168: INGAME_PARTICLES_1_90
+    21300170: INGAME_PARTICLES_1_91
+    21300172: INGAME_PARTICLES_1_92
+    21300174: INGAME_PARTICLES_1_93
+    21300176: INGAME_PARTICLES_1_94
+    21300178: INGAME_PARTICLES_1_95
+    21300180: INGAME_PARTICLES_1_96
+    21300182: INGAME_PARTICLES_1_99
+    21300184: INGAME_PARTICLES_1_100
+    21300186: INGAME_PARTICLES_1_101
+    21300188: INGAME_PARTICLES_1_102
+    21300190: INGAME_PARTICLES_1_103
+    21300192: INGAME_PARTICLES_1_104
+    21300194: INGAME_PARTICLES_1_105
+    21300196: INGAME_PARTICLES_1_106
+    21300198: INGAME_PARTICLES_1_107
+    21300200: INGAME_PARTICLES_1_108
+    21300202: INGAME_PARTICLES_1_109
+    21300204: INGAME_PARTICLES_1_110
+    21300206: INGAME_PARTICLES_1_111
+    21300208: INGAME_PARTICLES_1_112
+    21300210: INGAME_PARTICLES_1_113
+    21300212: INGAME_PARTICLES_1_114
+    21300214: INGAME_PARTICLES_1_115
+    21300216: INGAME_PARTICLES_1_116
+    21300218: INGAME_PARTICLES_1_117
+    21300220: INGAME_PARTICLES_1_118
+    21300222: INGAME_PARTICLES_1_119
+    21300224: INGAME_PARTICLES_1_120
+    21300226: INGAME_PARTICLES_1_121
+    21300228: INGAME_PARTICLES_1_122
+    21300230: INGAME_PARTICLES_1_123
+    21300232: INGAME_PARTICLES_1_124
+    21300234: INGAME_PARTICLES_1_125
+    21300236: INGAME_PARTICLES_1_126
+    21300238: INGAME_PARTICLES_1_127
+    21300240: INGAME_PARTICLES_1_128
+    21300242: INGAME_PARTICLES_1_129
+    21300244: INGAME_PARTICLES_1_130
+    21300246: INGAME_PARTICLES_1_133
+    21300248: INGAME_PARTICLES_1_134
+    21300250: INGAME_PARTICLES_1_135
+    21300252: INGAME_PARTICLES_1_136
+    21300254: INGAME_PARTICLES_1_137
+    21300256: INGAME_PARTICLES_1_138
+    21300258: INGAME_PARTICLES_1_139
+    21300260: INGAME_PARTICLES_1_140
+    21300262: INGAME_PARTICLES_1_141
+    21300264: INGAME_PARTICLES_1_142
+    21300266: INGAME_PARTICLES_1_143
+    21300268: INGAME_PARTICLES_1_144
+    21300270: INGAME_PARTICLES_1_145
+    21300272: INGAME_PARTICLES_1_146
+    21300274: INGAME_PARTICLES_1_147
+    21300276: INGAME_PARTICLES_1_148
+    21300278: INGAME_PARTICLES_1_149
+    21300280: INGAME_PARTICLES_1_150
+    21300282: INGAME_PARTICLES_1_151
+    21300284: 4
+    21300286: INGAME_PARTICLES_1_153
+    21300288: INGAME_PARTICLES_1_154
+    21300290: INGAME_PARTICLES_1_155
+    21300292: INGAME_PARTICLES_1_156
+    21300294: INGAME_PARTICLES_1_157
+    21300296: INGAME_PARTICLES_1_158
+    21300298: INGAME_PARTICLES_1_159
+    21300300: INGAME_PARTICLES_1_160
+    21300302: INGAME_PARTICLES_1_161
+    21300304: INGAME_PARTICLES_1_162
+    21300306: INGAME_PARTICLES_1_163
+    21300308: INGAME_PARTICLES_1_164
+    21300310: INGAME_PARTICLES_1_165
+    21300312: INGAME_PARTICLES_1_166
+    21300314: INGAME_PARTICLES_1_167
+    21300316: INGAME_PARTICLES_1_168
+    21300318: INGAME_PARTICLES_1_169
+    21300320: INGAME_PARTICLES_1_170
+    21300322: INGAME_PARTICLES_1_171
+    21300324: INGAME_PARTICLES_1_172
+    21300326: INGAME_PARTICLES_1_173
+    21300328: INGAME_PARTICLES_1_174
+    21300330: INGAME_PARTICLES_1_175
+    21300332: INGAME_PARTICLES_1_176
+    21300334: INGAME_PARTICLES_1_177
+    21300336: INGAME_PARTICLES_1_178
+    21300338: INGAME_PARTICLES_1_179
+    21300340: INGAME_PARTICLES_1_180
+    21300342: INGAME_PARTICLES_1_181
+    21300344: INGAME_PARTICLES_1_182
+    21300346: INGAME_PARTICLES_1_183
+    21300348: INGAME_PARTICLES_1_184
+    21300350: INGAME_PARTICLES_1_185
+    21300352: INGAME_PARTICLES_1_186
+    21300354: INGAME_PARTICLES_1_187
+    21300356: INGAME_PARTICLES_1_188
+    21300358: INGAME_PARTICLES_1_189
+    21300360: INGAME_PARTICLES_1_190
+    21300362: INGAME_PARTICLES_1_191
+    21300364: INGAME_PARTICLES_1_192
+    21300366: INGAME_PARTICLES_1_193
+    21300368: INGAME_PARTICLES_1_194
+    21300370: INGAME_PARTICLES_1_195
+    21300372: INGAME_PARTICLES_1_196
+    21300374: INGAME_PARTICLES_1_197
+    21300376: INGAME_PARTICLES_1_198
+    21300378: INGAME_PARTICLES_1_199
+    21300380: INGAME_PARTICLES_1_200
+    21300382: INGAME_PARTICLES_1_201
+    21300384: INGAME_PARTICLES_1_202
+    21300386: INGAME_PARTICLES_1_203
+    21300388: INGAME_PARTICLES_1_204
+    21300390: INGAME_PARTICLES_1_205
+    21300392: INGAME_PARTICLES_1_206
+    21300394: INGAME_PARTICLES_1_207
+    21300396: INGAME_PARTICLES_1_208
+    21300398: INGAME_PARTICLES_1_209
+    21300400: INGAME_PARTICLES_1_210
+    21300402: INGAME_PARTICLES_1_211
+    21300404: INGAME_PARTICLES_1_212
+    21300406: INGAME_PARTICLES_1_213
+    21300408: INGAME_PARTICLES_1_214
+    21300410: INGAME_PARTICLES_1_215
+    21300412: INGAME_PARTICLES_1_216
+    21300414: INGAME_PARTICLES_1_217
+    21300416: INGAME_PARTICLES_1_218
+    21300418: INGAME_PARTICLES_1_219
+    21300420: INGAME_PARTICLES_1_220
+    21300422: INGAME_PARTICLES_1_221
+    21300424: INGAME_PARTICLES_1_222
+    21300426: INGAME_PARTICLES_1_223
+    21300428: INGAME_PARTICLES_1_224
+    21300430: INGAME_PARTICLES_1_225
+    21300432: INGAME_PARTICLES_1_226
+    21300434: INGAME_PARTICLES_1_227
+    21300436: INGAME_PARTICLES_1_228
+    21300438: INGAME_PARTICLES_1_229
+    21300440: INGAME_PARTICLES_1_230
+    21300442: INGAME_PARTICLES_1_231
+    21300444: INGAME_PARTICLES_1_232
+    21300446: INGAME_PARTICLES_1_233
+    21300448: INGAME_PARTICLES_1_234
+    21300450: INGAME_PARTICLES_1_235
+    21300452: INGAME_PARTICLES_1_236
+    21300454: INGAME_PARTICLES_1_237
+    21300456: INGAME_PARTICLES_1_238
+    21300458: INGAME_PARTICLES_1_239
+    21300460: INGAME_PARTICLES_1_240
+    21300462: INGAME_PARTICLES_1_241
+    21300464: INGAME_PARTICLES_1_242
+    21300466: INGAME_PARTICLES_1_243
+    21300468: INGAME_PARTICLES_1_244
+    21300470: INGAME_PARTICLES_1_245
+    21300472: INGAME_PARTICLES_1_246
+    21300474: INGAME_PARTICLES_1_247
+    21300476: INGAME_PARTICLES_1_248
+    21300478: INGAME_PARTICLES_1_249
+    21300480: INGAME_PARTICLES_1_250
+    21300482: INGAME_PARTICLES_1_251
+    21300484: INGAME_PARTICLES_1_252
+    21300486: INGAME_PARTICLES_1_253
+    21300488: INGAME_PARTICLES_1_254
+    21300490: INGAME_PARTICLES_1_255
+    21300492: INGAME_PARTICLES_1_256
+    21300494: INGAME_PARTICLES_1_257
+    21300496: INGAME_PARTICLES_1_258
+    21300498: INGAME_PARTICLES_1_259
+    21300500: INGAME_PARTICLES_1_260
+    21300502: INGAME_PARTICLES_1_261
+    21300504: INGAME_PARTICLES_1_262
+    21300506: INGAME_PARTICLES_1_263
+    21300508: INGAME_PARTICLES_1_264
+    21300510: INGAME_PARTICLES_1_265
+    21300512: INGAME_PARTICLES_1_266
+    21300514: 5
+    21300516: 6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: INGAME_PARTICLES_1_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 639
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 647
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 544
+        width: 125
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 552
+        width: 115
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 553
+        width: 152
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 553
+        width: 115
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_6
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 572
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_7
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 598
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_8
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 630
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 572
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_10
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 600
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_11
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 586
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_12
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 544
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 540
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 526
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_15
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 543
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_16
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 543
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_17
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 543
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_18
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 543
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_19
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 543
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 474
+        width: 110
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 482
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_22
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 432
+        width: 152
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_23
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 451
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_24
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 461
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_25
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 461
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 462
+        width: 87
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_27
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 467
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 429
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_29
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 395
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_30
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 447
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_31
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 451
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_32
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 451
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_33
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 451
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_34
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 451
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_35
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 451
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_36
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 451
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_37
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 451
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_38
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 403
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_39
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 412
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_40
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 333
+        width: 125
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_41
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 382
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_42
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 375
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_43
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 375
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_44
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 375
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_45
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 377
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_46
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 381
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_47
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 390
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_48
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 419
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_49
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 396
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_50
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 386
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_52
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 332
+        width: 11
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_53
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 335
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_54
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 375
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_55
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 377
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_58
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 308
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_59
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 310
+        width: 90
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_60
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 310
+        width: 90
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_61
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 316
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_62
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 316
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_63
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 341
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_64
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 292
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_65
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 238
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_66
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 247
+        width: 48
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_67
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 311
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_69
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 241
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_70
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 251
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_71
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 268
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_72
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 269
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_73
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 269
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_74
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 298
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_75
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 271
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_76
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 272
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_77
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 273
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_78
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 281
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_79
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 290
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_80
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 286
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_81
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 290
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_82
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 270
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_83
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 272
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_84
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 271
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_87
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 233
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_88
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 231
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_89
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 232
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_90
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 234
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_91
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 234
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_92
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 235
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_93
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 234
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_94
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 234
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_95
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 234
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_96
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 236
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_99
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 197
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_100
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 143
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_101
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 154
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_102
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 181
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_103
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 204
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_104
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 192
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_105
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 195
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_106
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 196
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_107
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 200
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_108
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 202
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_109
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 203
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_110
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 202
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_111
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 203
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_112
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 203
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_113
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 206
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_114
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 162
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_115
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 181
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_116
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 137
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_117
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 151
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_118
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 160
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_119
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 160
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_120
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 169
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_121
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 168
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_122
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 170
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_123
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 171
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_124
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 184
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_125
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 172
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_126
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 172
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_127
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 175
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_128
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 176
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_129
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 176
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_130
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 180
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_133
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 124
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_134
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 155
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_135
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 137
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_136
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 144
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_137
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 147
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_138
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 147
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_139
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 147
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_140
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 148
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_141
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 147
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_142
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 148
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_143
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 147
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_144
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 143
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_145
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 143
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_146
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 130
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_147
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 137
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_148
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 137
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_149
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 126
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_150
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 145
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_151
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 144
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 25
+        width: 125
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_153
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 104
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_154
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 49
+        width: 125
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_155
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 101
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_156
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 138
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_157
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_158
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 116
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_159
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 123
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_160
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 124
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_161
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 124
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_162
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 124
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_163
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 124
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_164
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 127
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_165
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 91
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_166
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 95
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_167
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 110
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_168
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 126
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_169
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 129
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_170
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 106
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_171
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 68
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_172
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 101
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_173
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 91
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_174
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 93
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_175
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 90
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_176
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 90
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_177
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 98
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_178
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 102
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_179
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 102
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_180
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 103
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_181
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 104
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_182
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 105
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_183
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_184
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 59
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_185
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 81
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_186
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 46
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_187
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 53
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_188
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 61
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_189
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 55
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_190
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 76
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_191
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 62
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_192
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 62
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_193
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 72
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_194
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 80
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_195
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 83
+        width: 51
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_196
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 83
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_197
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 83
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_198
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 83
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_199
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 85
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_200
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 47
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_201
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 50
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_202
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 47
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_203
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 60
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_204
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 64
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_205
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 64
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_206
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 65
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_207
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_208
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 66
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_209
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 29
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_210
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 13
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_211
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 28
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_212
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 33
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_213
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 28
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_214
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 23
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_215
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 35
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_216
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 36
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_217
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 40
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_218
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 45
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_219
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 45
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_220
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 48
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_221
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 48
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_222
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 50
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_223
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 52
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_224
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_225
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 3
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_226
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_227
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_228
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 26
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_229
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 19
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_230
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 25
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_231
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 26
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_232
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 26
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_233
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 31
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_234
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 31
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_235
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 35
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_236
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 37
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_237
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_238
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_239
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_240
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_241
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_242
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_243
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_244
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 8
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_245
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_246
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_247
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 20
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_248
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 9
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_249
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 21
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_250
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 7
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_251
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 7
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_252
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 14
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_253
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 16
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_254
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_255
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_256
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_257
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_258
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_259
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_260
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_261
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_262
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_263
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_264
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_265
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 4
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_PARTICLES_1_266
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 9
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 125
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 126
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

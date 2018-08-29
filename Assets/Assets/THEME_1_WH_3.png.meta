@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 314c225926264fd46af7ba378969830d
+timeCreated: 1466650013
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: THEME_1_WH_3_0
+    21300002: THEME_1_WH_3_1
+    21300004: THEME_1_WH_3_2
+    21300006: THEME_1_WH_3_3
+    21300008: THEME_1_WH_3_4
+    21300010: THEME_1_WH_3_5
+    21300012: THEME_1_WH_3_6
+    21300014: THEME_1_WH_3_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: THEME_1_WH_3_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 42
+        width: 66
+        height: 208
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: THEME_1_WH_3_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1
+        width: 144
+        height: 249
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: THEME_1_WH_3_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 46
+        width: 122
+        height: 205
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: THEME_1_WH_3_3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 46
+        width: 121
+        height: 205
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: THEME_1_WH_3_4
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 177
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: THEME_1_WH_3_5
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 102
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: THEME_1_WH_3_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 52
+        width: 52
+        height: 48
+      alignment: 9
+      pivot: {x: .456573486, y: .41767025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: THEME_1_WH_3_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1
+        width: 78
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1002 @@
+fileFormatVersion: 2
+guid: 4c230216b2e5bb74e9cb50a3e4b7cfa3
+timeCreated: 1466652701
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: INGAME_BIRDS_1_0
+    21300002: INGAME_BIRDS_1_1
+    21300004: INGAME_BIRDS_1_2
+    21300006: INGAME_BIRDS_1_3
+    21300008: INGAME_BIRDS_1_4
+    21300010: INGAME_BIRDS_1_5
+    21300012: INGAME_BIRDS_1_6
+    21300014: INGAME_BIRDS_1_7
+    21300016: INGAME_BIRDS_1_8
+    21300018: INGAME_BIRDS_1_9
+    21300020: INGAME_BIRDS_1_10
+    21300022: INGAME_BIRDS_1_11
+    21300024: INGAME_BIRDS_1_12
+    21300026: INGAME_BIRDS_1_13
+    21300028: INGAME_BIRDS_1_14
+    21300030: INGAME_BIRDS_1_15
+    21300032: INGAME_BIRDS_1_16
+    21300034: INGAME_BIRDS_1_17
+    21300036: INGAME_BIRDS_1_18
+    21300038: INGAME_BIRDS_1_19
+    21300040: INGAME_BIRDS_1_20
+    21300042: INGAME_BIRDS_1_21
+    21300044: INGAME_BIRDS_1_22
+    21300046: INGAME_BIRDS_1_23
+    21300048: INGAME_BIRDS_1_24
+    21300050: INGAME_BIRDS_1_25
+    21300052: INGAME_BIRDS_1_26
+    21300054: INGAME_BIRDS_1_27
+    21300056: INGAME_BIRDS_1_28
+    21300058: INGAME_BIRDS_1_29
+    21300060: INGAME_BIRDS_1_30
+    21300062: INGAME_BIRDS_1_31
+    21300064: INGAME_BIRDS_1_32
+    21300066: INGAME_BIRDS_1_33
+    21300068: INGAME_BIRDS_1_34
+    21300070: INGAME_BIRDS_1_35
+    21300072: INGAME_BIRDS_1_36
+    21300074: INGAME_BIRDS_1_37
+    21300076: INGAME_BIRDS_1_38
+    21300078: INGAME_BIRDS_1_39
+    21300080: INGAME_BIRDS_1_40
+    21300082: INGAME_BIRDS_1_41
+    21300084: INGAME_BIRDS_1_42
+    21300086: INGAME_BIRDS_1_43
+    21300088: INGAME_BIRDS_1_44
+    21300090: INGAME_BIRDS_1_45
+    21300092: INGAME_BIRDS_1_46
+    21300094: INGAME_BIRDS_1_47
+    21300096: INGAME_BIRDS_1_48
+    21300098: INGAME_BIRDS_1_49
+    21300100: INGAME_BIRDS_1_50
+    21300102: INGAME_BIRDS_1_51
+    21300104: INGAME_BIRDS_1_52
+    21300106: INGAME_BIRDS_1_53
+    21300108: INGAME_BIRDS_1_54
+    21300110: INGAME_BIRDS_1_55
+    21300112: INGAME_BIRDS_1_56
+    21300114: INGAME_BIRDS_1_57
+    21300116: INGAME_BIRDS_1_58
+    21300118: INGAME_BIRDS_1_59
+    21300120: INGAME_BIRDS_1_60
+    21300122: INGAME_BIRDS_1_61
+    21300124: INGAME_BIRDS_1_62
+    21300126: INGAME_BIRDS_1_63
+    21300128: INGAME_BIRDS_1_64
+    21300130: INGAME_BIRDS_1_65
+    21300132: INGAME_BIRDS_1_66
+    21300134: INGAME_BIRDS_1_67
+    21300136: INGAME_BIRDS_1_68
+    21300138: INGAME_BIRDS_1_69
+    21300140: INGAME_BIRDS_1_70
+    21300142: INGAME_BIRDS_1_71
+    21300144: INGAME_BIRDS_1_72
+    21300146: INGAME_BIRDS_1_73
+    21300148: INGAME_BIRDS_1_74
+    21300150: INGAME_BIRDS_1_75
+    21300152: INGAME_BIRDS_1_76
+    21300154: INGAME_BIRDS_1_77
+    21300156: INGAME_BIRDS_1_78
+    21300158: INGAME_BIRDS_1_79
+    21300160: INGAME_BIRDS_1_80
+    21300162: INGAME_BIRDS_1_81
+    21300164: INGAME_BIRDS_1_82
+    21300166: INGAME_BIRDS_1_83
+    21300168: INGAME_BIRDS_1_84
+    21300170: INGAME_BIRDS_1_85
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: INGAME_BIRDS_1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 542
+        width: 330
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 728
+        width: 85
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_2
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 738
+        width: 106
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_3
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 741
+        width: 107
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_4
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 749
+        width: 45
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 626
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 702
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 640
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_8
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 642
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_9
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 646
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_10
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 677
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_11
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 653
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 631
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_13
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 542
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_14
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 613
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_15
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 546
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_16
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 552
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_17
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 542
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_18
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 593
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 446
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 447
+        width: 142
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_21
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 452
+        width: 152
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 453
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_23
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 453
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_24
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 455
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_25
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 457
+        width: 53
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 355
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_27
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 360
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_28
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 361
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_29
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 366
+        width: 113
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_30
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 368
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_31
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 370
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_32
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 374
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_33
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 375
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_34
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 375
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 265
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 274
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_37
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 280
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_38
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 294
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 296
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_40
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 298
+        width: 109
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_41
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 300
+        width: 83
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_42
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 301
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_43
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 340
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 175
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_45
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 211
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 188
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_47
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 199
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_48
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 222
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_49
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 227
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_50
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 236
+        width: 98
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_51
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 236
+        width: 98
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_52
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 236
+        width: 97
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_53
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 180
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_54
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 119
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_55
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 152
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_56
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 160
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_57
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 174
+        width: 97
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_58
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 175
+        width: 98
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_59
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 175
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_60
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 192
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_61
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 86
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_62
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 102
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_63
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 86
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_64
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 98
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_65
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 112
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_66
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 115
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_67
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 116
+        width: 102
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_68
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 133
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_69
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_70
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 17
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_71
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 39
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_72
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 20
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_73
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 36
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_74
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 51
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_75
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 72
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_76
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 58
+        width: 104
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_77
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 77
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_78
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 7
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_79
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 4
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_80
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 7
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_81
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 5
+        width: 75
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_82
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 29
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_83
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 5
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_84
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 30
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: INGAME_BIRDS_1_85
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 6
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
